@@ -21,14 +21,14 @@ The goals / steps of this project are the following:
 
 [//]: # "Image References"
 
-[image1]: ./examples/visualization.png "Visualization"
-[image2]: ./examples/visualization_dist.png "Distribution of classes"
-[image3]: ./examples/visualization_mc.png "Most common classes"
-[image4]: ./examples/visualization_lc.png "Most common classes"
-[image5]: ./examples/training_graph.png "Training graph"
-[image6]: ./examples/sample_tests.png "Test samples"
-[image7]: ./examples/sample_tests_results.png "Test samples results"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
+[image1]: ./images/visualization.png "Visualization"
+[image2]: ./images/visualization_dist.png "Distribution of classes"
+[image3]: ./images/visualization_mc.png "Most common classes"
+[image4]: ./images/visualization_lc.png "Most common classes"
+[image5]: ./images/training_graph.png "Training graph"
+[image6]: ./images/sample_tests.png "Test samples"
+[image7]: ./images/sample_tests_results.png "Test samples results"
+[image8]: ./images/placeholder.png "Traffic Sign 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
